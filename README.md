@@ -95,6 +95,19 @@ python main.py
 
 ---
 
+## Demo Screenshots
+
+### Pipeline Execution
+
+<img width="897" height="470" alt="image" src="https://github.com/user-attachments/assets/a5a05bbd-4b1c-4bd2-8611-4331348c4e98" />
+
+
+### Email Received
+
+<img width="799" height="278" alt="image" src="https://github.com/user-attachments/assets/19123a10-89cb-4a7d-83fa-62b56b43f430" />
+
+
+
 ## Author
 
 Sanjana Singh

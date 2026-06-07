@@ -3,6 +3,7 @@
 ## Overview
 
 This project is a fully automated cold outreach pipeline built using Python.
+A modular automated outreach pipeline that discovers companies, identifies decision makers, resolves emails, and sends personalized outreach automatically using Python and Brevo API.
 
 The system takes a single company domain as input and automatically performs the following stages:
 
